@@ -1,0 +1,13 @@
+dist/
+devresume/build/
+devresume/bin/
+*.log
+python/.venv/
+__pycache__/
+.pytest_cache/
+python/e2e/node_modules/
+apps/web/node_modules/
+apps/web/.next/
+apps/web/next.log
+services/**/*.log
+release/

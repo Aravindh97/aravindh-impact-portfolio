@@ -1,0 +1,152 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 10 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Title (Aravindh Varadharaj - Resume) /Author (Aravindh Varadharaj) /Producer (DevResume) >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R /Annots [8 0 R 9 0 R] >>
+endobj
+7 0 obj
+<< /Length 7246 >>
+stream
+BT 0.122 0.141 0.173 rg /F2 22 Tf 48 771.89 Td (Aravindh Varadharaj) Tj ET
+BT 0.043 0.369 0.49 rg /F1 12 Tf 48 751.89 Td (Full-Stack Developer \267 Three Python + Three Go Platforms \267 Next.js & React) Tj ET
+BT 0.353 0.388 0.439 rg /F1 9 Tf 48 738.69 Td (Tiruppur | aravindhvaradha@gmail.com) Tj ET
+BT 0.043 0.369 0.49 rg /F1 9 Tf 48 726.54 Td (GitHub) Tj ET
+BT 0.353 0.388 0.439 rg /F1 9 Tf 76.008 726.54 Td (  |  ) Tj ET
+BT 0.043 0.369 0.49 rg /F1 9 Tf 88.356 726.54 Td (LinkedIn) Tj ET
+BT 0.043 0.369 0.49 rg /F2 11 Tf 48 701.49 Td (SUMMARY) Tj ET
+q 0.784 0.808 0.839 RG 0.6 w 48 697.49 m 547.28 697.49 l S Q
+BT 0.122 0.141 0.173 rg /F1 10 Tf 48 681.49 Td (Builder at Amazon since 2021 in digital marketing, where I developed and automated internal workflows. I now) Tj ET
+BT 0.122 0.141 0.173 rg /F1 10 Tf 48 667.99 Td (build six distinct platforms: Python systems for enterprise open learning, historical famine analysis and animal) Tj ET
+BT 0.122 0.141 0.173 rg /F1 10 Tf 48 654.49 Td (welfare; and Go systems for general disaster impact, nuclear civil safety and wildlife-aware wireless efficiency.) Tj ET
+BT 0.122 0.141 0.173 rg /F1 10 Tf 48 640.99 Td (Each has a live React interface, tested API, explicit uncertainty and a documented production path. I am eager to) Tj ET
+BT 0.122 0.141 0.173 rg /F1 10 Tf 48 627.49 Td (build useful technology with communities that care about everyday impact.) Tj ET
+BT 0.043 0.369 0.49 rg /F2 11 Tf 48 602.99 Td (SKILLS) Tj ET
+q 0.784 0.808 0.839 RG 0.6 w 48 598.99 m 547.28 598.99 l S Q
+BT 0.122 0.141 0.173 rg /F2 9.5 Tf 48 583.49 Td (Frontend engineering: ) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 151.455 583.49 Td (Next.js 16, React 19, TypeScript 7, Tailwind CSS 4, server rendering, accessible responsive) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 151.455 570.665 Td (UI) Tj ET
+BT 0.122 0.141 0.173 rg /F2 9.5 Tf 48 557.84 Td (Go systems: ) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 107.66 557.84 Td (net/http, concurrency, streaming, idempotency, event sourcing, CRDTs, reconciliation loops) Tj ET
+BT 0.122 0.141 0.173 rg /F2 9.5 Tf 48 545.015 Td (Python & intelligence: ) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 150.41 545.015 Td (FastAPI, Pydantic, NumPy, pandas, forecasting, anomaly detection, explainability) Tj ET
+BT 0.122 0.141 0.173 rg /F2 9.5 Tf 48 532.19 Td (Data & platform: ) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 124.532 532.19 Td (Postgres/PostGIS design, Redis design, OpenTelemetry, Docker, GitHub Actions, versioned APIs) Tj ET
+BT 0.122 0.141 0.173 rg /F2 9.5 Tf 48 519.365 Td (Safety & reliability: ) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 136.169 519.365 Td (human approval gates, privacy by design, graceful degradation, property tests, race detection,) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 136.169 506.54 Td (model limitations) Tj ET
+BT 0.043 0.369 0.49 rg /F2 11 Tf 48 482.215 Td (SELECTED PROJECTS) Tj ET
+q 0.784 0.808 0.839 RG 0.6 w 48 478.215 m 547.28 478.215 l S Q
+BT 0.122 0.141 0.173 rg /F2 10.5 Tf 48 461.715 Td (OpenSchool Enterprise \227 A complete free school platform for families and learning communities,) Tj ET
+BT 0.122 0.141 0.173 rg /F2 10.5 Tf 48 447.54 Td (including offline. \267 Python) Tj ET
+BT 0.353 0.388 0.439 rg /F1 9 Tf 48 434.865 Td (Stack: Next.js 16, React 19, TypeScript 7, Python, FastAPI) Tj ET
+BT 0.043 0.369 0.49 rg /F1 9.5 Tf 52 422.215 Td (\225) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 422.215 Td (A governed Python/FastAPI platform creates mastery-aware plans, balanced curriculum coverage and printable) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 409.39 Td (offline guides for parents, teachers and administrators.) Tj ET
+BT 0.043 0.369 0.49 rg /F1 9.5 Tf 52 395.565 Td (\225) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 395.565 Td (Organization, role and curriculum contracts with auditable content-review state) Tj ET
+BT 0.122 0.141 0.173 rg /F2 10.5 Tf 48 376.74 Td (FamineLens \227 Study historical evidence carefully\227and connect its lessons to accountable early) Tj ET
+BT 0.122 0.141 0.173 rg /F2 10.5 Tf 48 362.565 Td (warning. \267 Python) Tj ET
+BT 0.353 0.388 0.439 rg /F1 9 Tf 48 349.89 Td (Stack: Next.js 16, React 19, TypeScript 7, Python, FastAPI) Tj ET
+BT 0.043 0.369 0.49 rg /F1 9.5 Tf 52 337.24 Td (\225) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 337.24 Td (A sourced comparison of the Great Indian Famine \(1876\2261878\) and Bengal Famine \(1943\) pairs contested) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 324.415 Td (historical evidence with an uncertainty-aware modern scenario model.) Tj ET
+BT 0.043 0.369 0.49 rg /F1 9.5 Tf 52 310.59 Td (\225) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 310.59 Td (Historical claims retain official/reference sources and disputed interpretations) Tj ET
+BT 0.122 0.141 0.173 rg /F2 10.5 Tf 48 291.765 Td (Kindred \227 Connect animal welfare reports to timely, humane and accountable care. \267 Python) Tj ET
+BT 0.353 0.388 0.439 rg /F1 9 Tf 48 279.09 Td (Stack: Next.js 16, React 19, TypeScript 7, Python, FastAPI) Tj ET
+BT 0.043 0.369 0.49 rg /F1 9.5 Tf 52 266.44 Td (\225) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 266.44 Td (A privacy-aware Python network maps coarse wildlife reports, shelter capacity and environmental pressure, then) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 253.615 Td (builds a transparent human-review queue.) Tj ET
+BT 0.043 0.369 0.49 rg /F1 9.5 Tf 52 239.79 Td (\225) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 239.79 Td (Wildlife locations are coarsened; every priority remains an expert-review recommendation) Tj ET
+BT 0.122 0.141 0.173 rg /F2 10.5 Tf 48 220.965 Td (TerraZero \227 Turn public hazard signals into understandable impact and preparedness scenarios. \267) Tj ET
+BT 0.122 0.141 0.173 rg /F2 10.5 Tf 48 206.79 Td (Go) Tj ET
+BT 0.353 0.388 0.439 rg /F1 9 Tf 48 194.115 Td (Stack: Next.js 16, React 19, TypeScript 7, Go, net/http) Tj ET
+BT 0.043 0.369 0.49 rg /F1 9.5 Tf 52 181.465 Td (\225) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 181.465 Td (A Go multi-hazard twin combines live public USGS earthquakes with transparent earthquake, volcano, tsunami,) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 168.64 Td (flood and wildfire impact-zone scenarios.) Tj ET
+BT 0.043 0.369 0.49 rg /F1 9.5 Tf 52 154.815 Td (\225) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 154.815 Td (Fixed public USGS endpoint with bounded fetch, cache and fallback behavior) Tj ET
+BT 0.122 0.141 0.173 rg /F2 10.5 Tf 48 135.99 Td (Nuclear Legacy & Civil Safety \227 Learn from civilian nuclear accidents without turning uncertainty) Tj ET
+BT 0.122 0.141 0.173 rg /F2 10.5 Tf 48 121.815 Td (into fear or false certainty. \267 Go) Tj ET
+BT 0.353 0.388 0.439 rg /F1 9 Tf 48 109.14 Td (Stack: Next.js 16, React 19, TypeScript 7, Go, net/http) Tj ET
+BT 0.043 0.369 0.49 rg /F1 9.5 Tf 52 96.49 Td (\225) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 96.49 Td (A Go civil-safety observatory compares Three Mile Island, Chernobyl and Fukushima and visualizes educational) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 83.665 Td (monitoring and recovery scenarios.) Tj ET
+BT 0.043 0.369 0.49 rg /F1 9.5 Tf 52 69.84 Td (\225) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 69.84 Td (Strictly excludes weapon design, targeting and attack modelling) Tj ET
+
+endstream
+endobj
+8 0 obj
+<< /Type /Annot /Subtype /Link /Rect [48 724.29 76.008 735.54] /Border [0 0 0] /A << /S /URI /URI (https://github.com/Aravindh97) >> >>
+endobj
+9 0 obj
+<< /Type /Annot /Subtype /Link /Rect [88.356 724.29 122.376 735.54] /Border [0 0 0] /A << /S /URI /URI (https://www.linkedin.com/in/aravindh-varadharaj-253231201) >> >>
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 2316 >>
+stream
+BT 0.122 0.141 0.173 rg /F2 10.5 Tf 48 783.39 Td (EcoSignal \227 Reduce unnecessary wireless transmission while preserving essential connectivity. \267) Tj ET
+BT 0.122 0.141 0.173 rg /F2 10.5 Tf 48 769.215 Td (Go) Tj ET
+BT 0.353 0.388 0.439 rg /F1 9 Tf 48 756.54 Td (Stack: Next.js 16, React 19, TypeScript 7, Go, net/http) Tj ET
+BT 0.043 0.369 0.49 rg /F1 9.5 Tf 52 743.89 Td (\225) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 743.89 Td (Enumerates configurable access-point/gateway power plans under a minimum coverage constraint) Tj ET
+BT 0.043 0.369 0.49 rg /F1 9.5 Tf 52 730.065 Td (\225) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 730.065 Td (Compares current and optimized RF activity maps, device duty cycles and energy while preserving an essential) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 717.24 Td (emergency gateway) Tj ET
+BT 0.043 0.369 0.49 rg /F2 11 Tf 48 687.915 Td (EXPERIENCE) Tj ET
+q 0.784 0.808 0.839 RG 0.6 w 48 683.915 m 547.28 683.915 l S Q
+BT 0.122 0.141 0.173 rg /F2 10.5 Tf 48 667.415 Td (Sr. Digital Marketing Associate \227 Amazon) Tj ET
+BT 0.353 0.388 0.439 rg /F1 9 Tf 486.242 667.415 Td (2021 \226 Present) Tj ET
+BT 0.043 0.369 0.49 rg /F1 9.5 Tf 52 654.24 Td (\225) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 654.24 Td (Developed and automated internal tools and workflows for my team, replacing repetitive manual tasks with reliable,) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 641.415 Td (reusable solutions.) Tj ET
+BT 0.043 0.369 0.49 rg /F1 9.5 Tf 52 627.59 Td (\225) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 627.59 Td (Worked with stakeholders to identify process gaps, then designed, built, and supported automation that the team) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 614.765 Td (adopted in daily work.) Tj ET
+BT 0.043 0.369 0.49 rg /F1 9.5 Tf 52 600.94 Td (\225) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 600.94 Td (Grew from a marketing role into hands-on development, building a portfolio of full-stack Python projects outside my) Tj ET
+BT 0.122 0.141 0.173 rg /F1 9.5 Tf 62 588.115 Td (core responsibilities.) Tj ET
+BT 0.043 0.369 0.49 rg /F2 11 Tf 48 558.79 Td (EDUCATION) Tj ET
+q 0.784 0.808 0.839 RG 0.6 w 48 554.79 m 547.28 554.79 l S Q
+BT 0.122 0.141 0.173 rg /F2 10 Tf 48 538.79 Td (Bachelor of Engineering \(B.E.\) in Mechanical Engineering) Tj ET
+
+endstream
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000128 00000 n 
+0000000225 00000 n 
+0000000327 00000 n 
+0000000438 00000 n 
+0000000602 00000 n 
+0000007900 00000 n 
+0000008051 00000 n 
+0000008235 00000 n 
+0000008379 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R /Info 5 0 R >>
+startxref
+10748
+%%EOF

@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: aravindh-humanity-core
+    runtime: go
+    buildCommand: go build -trimpath -o bin/humanity-core ./services/core/cmd/humanity-core
+    startCommand: ADDR=:$PORT ./bin/humanity-core
+    healthCheckPath: /healthz
+  - type: web
+    name: aravindh-humanity-intelligence
+    runtime: python
+    buildCommand: pip install -r services/intelligence/requirements.txt
+    startCommand: python -m uvicorn services.intelligence.app.main:app --host 0.0.0.0 --port $PORT --no-access-log
+    healthCheckPath: /healthz

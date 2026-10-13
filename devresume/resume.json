@@ -1,0 +1,303 @@
+{
+  "name": "Aravindh Varadharaj",
+  "title": "Full-Stack Developer · Three Python + Three Go Platforms · Next.js & React",
+  "email": "aravindhvaradha@gmail.com",
+  "links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/Aravindh97"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/aravindh-varadharaj-253231201"
+    }
+  ],
+  "summary": "Builder at Amazon since 2021 in digital marketing, where I developed and automated internal workflows. I now build six distinct platforms: Python systems for enterprise open learning, historical famine analysis and animal welfare; and Go systems for general disaster impact, nuclear civil safety and wildlife-aware wireless efficiency. Each has a live React interface, tested API, explicit uncertainty and a documented production path. I am eager to build useful technology with communities that care about everyday impact.",
+  "skills": [
+    {
+      "category": "Frontend engineering",
+      "items": [
+        "Next.js 16",
+        "React 19",
+        "TypeScript 7",
+        "Tailwind CSS 4",
+        "server rendering",
+        "accessible responsive UI"
+      ]
+    },
+    {
+      "category": "Go systems",
+      "items": [
+        "net/http",
+        "concurrency",
+        "streaming",
+        "idempotency",
+        "event sourcing",
+        "CRDTs",
+        "reconciliation loops"
+      ]
+    },
+    {
+      "category": "Python & intelligence",
+      "items": [
+        "FastAPI",
+        "Pydantic",
+        "NumPy",
+        "pandas",
+        "forecasting",
+        "anomaly detection",
+        "explainability"
+      ]
+    },
+    {
+      "category": "Data & platform",
+      "items": [
+        "Postgres/PostGIS design",
+        "Redis design",
+        "OpenTelemetry",
+        "Docker",
+        "GitHub Actions",
+        "versioned APIs"
+      ]
+    },
+    {
+      "category": "Safety & reliability",
+      "items": [
+        "human approval gates",
+        "privacy by design",
+        "graceful degradation",
+        "property tests",
+        "race detection",
+        "model limitations"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Sr. Digital Marketing Associate",
+      "company": "Amazon",
+      "start": "2021",
+      "end": "Present",
+      "bullets": [
+        "Developed and automated internal tools and workflows for my team, replacing repetitive manual tasks with reliable, reusable solutions.",
+        "Worked with stakeholders to identify process gaps, then designed, built, and supported automation that the team adopted in daily work.",
+        "Grew from a marketing role into hands-on development, building a portfolio of full-stack Python projects outside my core responsibilities."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering (B.E.) in Mechanical Engineering",
+      "school": ""
+    }
+  ],
+  "projects": [
+    {
+      "slug": "openschool",
+      "name": "OpenSchool Enterprise",
+      "lang": "python",
+      "domain": "Enterprise open learning",
+      "subtitle": "A complete free school platform for families and learning communities, including offline.",
+      "tagline": "A governed Python/FastAPI platform creates mastery-aware plans, balanced curriculum coverage and printable offline guides for parents, teachers and administrators.",
+      "problem": "A complete free school platform for families and learning communities, including offline.",
+      "solution": "A governed Python/FastAPI platform creates mastery-aware plans, balanced curriculum coverage and printable offline guides for parents, teachers and administrators.",
+      "stack": [
+        "Next.js 16",
+        "React 19",
+        "TypeScript 7",
+        "Python",
+        "FastAPI"
+      ],
+      "status": "live",
+      "featured": true,
+      "highlights": [
+        "A governed Python/FastAPI platform creates mastery-aware plans, balanced curriculum coverage and printable offline guides for parents, teachers and administrators.",
+        "Organization, role and curriculum contracts with auditable content-review state"
+      ],
+      "features": [
+        "Organization, role and curriculum contracts with auditable content-review state",
+        "Balances seven learning domains while prioritizing weak prerequisites"
+      ],
+      "engineering_decisions": [
+        "Organization, role and curriculum contracts with auditable content-review state",
+        "Balances seven learning domains while prioritizing weak prerequisites"
+      ],
+      "production_path": "Add reviewed open curricula, SSO/RBAC, content approvals, encrypted sync, LTI/xAPI and measured learning outcomes.",
+      "color": "#c4b5fd",
+      "icon": "<path d=\"M4 19.5A2.5 2.5 0 0 1 6.5 17H20V2H6.5A2.5 2.5 0 0 0 4 4.5z\"/>"
+    },
+    {
+      "slug": "faminelens",
+      "name": "FamineLens",
+      "lang": "python",
+      "domain": "Historical famine & prevention",
+      "subtitle": "Study historical evidence carefully—and connect its lessons to accountable early warning.",
+      "tagline": "A sourced comparison of the Great Indian Famine (1876–1878) and Bengal Famine (1943) pairs contested historical evidence with an uncertainty-aware modern scenario model.",
+      "problem": "Study historical evidence carefully—and connect its lessons to accountable early warning.",
+      "solution": "A sourced comparison of the Great Indian Famine (1876–1878) and Bengal Famine (1943) pairs contested historical evidence with an uncertainty-aware modern scenario model.",
+      "stack": [
+        "Next.js 16",
+        "React 19",
+        "TypeScript 7",
+        "Python",
+        "FastAPI"
+      ],
+      "status": "live",
+      "featured": true,
+      "highlights": [
+        "A sourced comparison of the Great Indian Famine (1876–1878) and Bengal Famine (1943) pairs contested historical evidence with an uncertainty-aware modern scenario model.",
+        "Historical claims retain official/reference sources and disputed interpretations"
+      ],
+      "features": [
+        "Historical claims retain official/reference sources and disputed interpretations",
+        "Driver contributions and historical similarity are explicitly illustrative, not causal proof"
+      ],
+      "engineering_decisions": [
+        "Historical claims retain official/reference sources and disputed interpretations",
+        "Driver contributions and historical similarity are explicitly illustrative, not causal proof"
+      ],
+      "production_path": "Add versioned archival/public datasets, peer review, PostGIS timelines, model cards and analyst-approved modern alerts.",
+      "color": "#facc15",
+      "icon": "<path d=\"M3 3v18h18M7 15l4-4 3 3 6-6\"/>"
+    },
+    {
+      "slug": "kindred",
+      "name": "Kindred",
+      "lang": "python",
+      "domain": "Animal welfare intelligence",
+      "subtitle": "Connect animal welfare reports to timely, humane and accountable care.",
+      "tagline": "A privacy-aware Python network maps coarse wildlife reports, shelter capacity and environmental pressure, then builds a transparent human-review queue.",
+      "problem": "Connect animal welfare reports to timely, humane and accountable care.",
+      "solution": "A privacy-aware Python network maps coarse wildlife reports, shelter capacity and environmental pressure, then builds a transparent human-review queue.",
+      "stack": [
+        "Next.js 16",
+        "React 19",
+        "TypeScript 7",
+        "Python",
+        "FastAPI"
+      ],
+      "status": "live",
+      "featured": true,
+      "highlights": [
+        "A privacy-aware Python network maps coarse wildlife reports, shelter capacity and environmental pressure, then builds a transparent human-review queue.",
+        "Wildlife locations are coarsened; every priority remains an expert-review recommendation"
+      ],
+      "features": [
+        "Wildlife locations are coarsened; every priority remains an expert-review recommendation",
+        "Capacity, waiting, dependents and environmental pressure are visible in each explanation"
+      ],
+      "engineering_decisions": [
+        "Wildlife locations are coarsened; every priority remains an expert-review recommendation",
+        "Capacity, waiting, dependents and environmental pressure are visible in each explanation"
+      ],
+      "production_path": "Add governed shelter/veterinary integrations, licensed imagery, expert-labelled models, RBAC and welfare-outcome monitoring.",
+      "color": "#4ade80",
+      "icon": "<path d=\"M12 21s-7-4.5-9-9a5 5 0 0 1 9-3 5 5 0 0 1 9 3c-2 4.5-9 9-9 9z\"/>"
+    },
+    {
+      "slug": "terrazero",
+      "name": "TerraZero",
+      "lang": "go",
+      "domain": "General disaster impact zones",
+      "subtitle": "Turn public hazard signals into understandable impact and preparedness scenarios.",
+      "tagline": "A Go multi-hazard twin combines live public USGS earthquakes with transparent earthquake, volcano, tsunami, flood and wildfire impact-zone scenarios.",
+      "problem": "Turn public hazard signals into understandable impact and preparedness scenarios.",
+      "solution": "A Go multi-hazard twin combines live public USGS earthquakes with transparent earthquake, volcano, tsunami, flood and wildfire impact-zone scenarios.",
+      "stack": [
+        "Next.js 16",
+        "React 19",
+        "TypeScript 7",
+        "Go",
+        "net/http"
+      ],
+      "status": "live",
+      "featured": true,
+      "highlights": [
+        "A Go multi-hazard twin combines live public USGS earthquakes with transparent earthquake, volcano, tsunami, flood and wildfire impact-zone scenarios.",
+        "Fixed public USGS endpoint with bounded fetch, cache and fallback behavior"
+      ],
+      "features": [
+        "Fixed public USGS endpoint with bounded fetch, cache and fallback behavior",
+        "Zones expose wide uncertainty and defer to authorized alerts and local experts"
+      ],
+      "engineering_decisions": [
+        "Fixed public USGS endpoint with bounded fetch, cache and fallback behavior",
+        "Zones expose wide uncertainty and defer to authorized alerts and local experts"
+      ],
+      "production_path": "Add PostGIS, streaming feeds, infrastructure dependency graphs, offline alerts and agency-reviewed scenario calibration.",
+      "color": "#fb7185",
+      "icon": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M3 12h18M12 3a14 14 0 0 1 0 18\"/>"
+    },
+    {
+      "slug": "nuclear-legacy",
+      "name": "Nuclear Legacy & Civil Safety",
+      "lang": "go",
+      "domain": "Civil nuclear history & recovery",
+      "subtitle": "Learn from civilian nuclear accidents without turning uncertainty into fear or false certainty.",
+      "tagline": "A Go civil-safety observatory compares Three Mile Island, Chernobyl and Fukushima and visualizes educational monitoring and recovery scenarios.",
+      "problem": "Learn from civilian nuclear accidents without turning uncertainty into fear or false certainty.",
+      "solution": "A Go civil-safety observatory compares Three Mile Island, Chernobyl and Fukushima and visualizes educational monitoring and recovery scenarios.",
+      "stack": [
+        "Next.js 16",
+        "React 19",
+        "TypeScript 7",
+        "Go",
+        "net/http"
+      ],
+      "status": "live",
+      "featured": true,
+      "highlights": [
+        "A Go civil-safety observatory compares Three Mile Island, Chernobyl and Fukushima and visualizes educational monitoring and recovery scenarios.",
+        "Strictly excludes weapon design, targeting and attack modelling"
+      ],
+      "features": [
+        "Strictly excludes weapon design, targeting and attack modelling",
+        "Scenario is not a dose calculation, medical instruction or evacuation order"
+      ],
+      "engineering_decisions": [
+        "Strictly excludes weapon design, targeting and attack modelling",
+        "Scenario is not a dose calculation, medical instruction or evacuation order"
+      ],
+      "production_path": "Integrate certified monitoring networks, weather models, laboratory data, authorized guidance and long-term recovery governance.",
+      "color": "#67e8f9",
+      "icon": "<path d=\"M12 2v20M5 12h14M7 5l10 14M17 5 7 19\"/>"
+    },
+    {
+      "slug": "ecosignal",
+      "name": "EcoSignal",
+      "lang": "go",
+      "domain": "Wildlife-aware RF efficiency",
+      "subtitle": "Reduce unnecessary wireless transmission while preserving essential connectivity.",
+      "tagline": "A Go constrained optimizer inventories routers, gateways, phones and laptops; preserves network coverage; and reduces configurable transmit power and idle airtime while reporting a relative habitat activity proxy.",
+      "problem": "Wireless devices share spectrum near homes and wildlife habitats, but software cannot honestly claim one universal safe RF level for every species.",
+      "solution": "A Go constrained optimizer inventories routers, gateways, phones and laptops; preserves network coverage; and reduces configurable transmit power and idle airtime while reporting a relative habitat activity proxy.",
+      "stack": [
+        "Next.js 16",
+        "React 19",
+        "TypeScript 7",
+        "Go",
+        "net/http"
+      ],
+      "status": "live",
+      "featured": true,
+      "highlights": [
+        "Enumerates configurable access-point/gateway power plans under a minimum coverage constraint",
+        "Compares current and optimized RF activity maps, device duty cycles and energy while preserving an essential emergency gateway"
+      ],
+      "features": [
+        "coverage-constrained optimization",
+        "coarse habitat activity proxy",
+        "quiet-hour duty-cycle reduction",
+        "per-device recommendations"
+      ],
+      "engineering_decisions": [
+        "Never labels a configuration biologically safe without calibrated measurements and expert review",
+        "Does not jam, alter unauthorized frequencies or pretend to control phone/laptop radios"
+      ],
+      "production_path": "Integrate calibrated RF meters, supported router-management APIs, measurement provenance, legal spectrum profiles and qualified RF/ecology review.",
+      "color": "#38bdf8",
+      "icon": "<path d=\"M5 12h.01M9 9a4 4 0 0 1 0 6M13 6a8 8 0 0 1 0 12M17 3a12 12 0 0 1 0 18\"/>"
+    }
+  ],
+  "location": "Tiruppur"
+}

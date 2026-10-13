@@ -1,0 +1,28 @@
+services:
+  core:
+    build:
+      context: .
+      dockerfile: services/core/Dockerfile
+    expose: ["8090"]
+    read_only: true
+    security_opt: ["no-new-privileges:true"]
+    cap_drop: ["ALL"]
+  intelligence:
+    build:
+      context: .
+      dockerfile: services/intelligence/Dockerfile
+    expose: ["8091"]
+    read_only: true
+    tmpfs: ["/tmp:size=64m,mode=1777"]
+    security_opt: ["no-new-privileges:true"]
+    cap_drop: ["ALL"]
+  web:
+    build:
+      context: .
+      dockerfile: apps/web/Dockerfile
+    depends_on: [core, intelligence]
+    ports: ["127.0.0.1:3000:3000"]
+    read_only: true
+    tmpfs: ["/tmp:size=64m,mode=1777"]
+    security_opt: ["no-new-privileges:true"]
+    cap_drop: ["ALL"]
