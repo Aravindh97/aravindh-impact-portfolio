@@ -10,4 +10,5 @@ apps/web/node_modules/
 apps/web/.next/
 apps/web/next.log
 services/**/*.log
-release/apps/web/tsconfig.tsbuildinfo
+release/
+apps/web/tsconfig.tsbuildinfo
